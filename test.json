@@ -1,0 +1,16 @@
+[
+        {
+            "name": "Arham Sarwar",
+            "age": 22,
+            "isActive": "true"
+        }, {
+            "name": "Basit",
+            "age": 24,
+            "isActive": "false"
+        },
+        {
+            "name": "Ali",
+            "age": 20,
+            "isActive": "true"
+        }
+    ]
